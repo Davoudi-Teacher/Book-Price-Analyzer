@@ -1,5 +1,7 @@
+
 streamlit>=1.36
 pandas>=2.2
 requests>=2.32
 beautifulsoup4>=4.12
 plotly>=5.22
+scrapy>=2.11
